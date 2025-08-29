@@ -82,6 +82,20 @@
       "category": "Application",
       "image": "images/project-15.png",
       "link":"https://chat-app-a-k.onrender.com"
+    },
+    {
+      "id": 13,
+      "title": "TastyCrunchMakhana",
+      "category": "Application",
+      "image": "images/project-16.png",
+      "link":"https://tastycrunchmakhana.com"
+    },
+    {
+      "id": 14,
+      "title": "CLEANER",
+      "category": "Application",
+      "image": "images/project-17.png",
+      "link":"https://mern-cleaner-1.onrender.com"
     }
   ]
   

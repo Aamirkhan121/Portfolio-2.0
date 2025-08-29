@@ -41,7 +41,7 @@ const About = () => {
       </header>
       <section>
         <p>
-          "As a fresher MERN stack web developer, I am eager to apply my knowledge of MongoDB, Express, React, and Node.js to build dynamic and user-friendly web applications. I have a strong foundation in web development and am passionate about learning new technologies. I am committed to delivering high-quality solutions and growing as a developer."
+          "As a Full Stack MERN Developer with 1 year of experience, I specialize in designing and developing scalable web applications using MongoDB, Express.js, React.js, and Node.js. I have hands-on expertise in both front-end and back-end development, RESTful APIs, and database management. I am passionate about writing clean, efficient code, implementing modern UI/UX practices, and delivering end-to-end solutions. With strong problem-solving skills and a continuous learning mindset, I am committed to building high-quality applications that enhance user experience and meet business goals."
         </p>
       </section>
       {/* service */}

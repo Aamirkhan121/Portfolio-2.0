@@ -1,4 +1,4 @@
-
+@import "tailwindcss";
 
 :root {
 
@@ -941,7 +941,7 @@ main {
 }
 
 .project-category {
-  color: var(--light-gray-70);
+  color: var(--vegas-gold);
   font-size: var(--fs-6);
   font-weight: var(--fw-300);
 }
@@ -1535,7 +1535,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .filter-item button {
-    color: var(--light-gray);
+    color: var(--vegas-gold);
     font-size: var(--fs-5);
     transition: var(--transition-1);
   }
