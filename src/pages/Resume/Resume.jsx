@@ -75,7 +75,10 @@ const Resume = () => {
           <SkillItem title="JAVASCRIPT" value={65}/>
           <SkillItem title="BOOTSTRAP" value={60}/>
           <SkillItem title="REACT" value={70}/>
-          <SkillItem title="REACT REDUX-TOOLKIT" value={55}/>
+          <SkillItem title="NODE.JS" value={75}/>
+          <SkillItem title="EXPRESS.JS" value={75}/>
+          <SkillItem title="MONGODB" value={80}/>
+          <SkillItem title="TAILWIND.CSS" value={75}/>
         </ul>
       </div>
     </section>

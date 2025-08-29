@@ -17,7 +17,7 @@ const Aside = () => {
         </figure>
         <div className='info-content'>
           <h1 className='name'>Md Aamir khan</h1>
-          <p className='title'>MERN-STACK Developer</p>
+          <p className='title'>FULL STACK MERN Developer</p>
         </div>
         <button className='info_more-btn' onClick={toggleContact}>
           <span>Show contacts</span>
